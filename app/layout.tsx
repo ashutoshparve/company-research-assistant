@@ -4,6 +4,15 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'Scope — AI Company Research Console',
   description: 'Research any company with AI-powered insights, competitor analysis, and PDF reports.',
+  keywords: ['company research', 'AI', 'competitor analysis', 'OpenRouter', 'Serper'],
+  openGraph: {
+    title: 'Scope — AI Company Research Console',
+    description: 'Scan any company\'s public footprint, surface competitors, and compile a downloadable dossier.',
+    type: 'website',
+  },
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
