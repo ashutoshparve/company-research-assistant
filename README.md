@@ -264,5 +264,11 @@ Console UI — inline dossier card
 
 ## Author
 
+## Contributing
+
+This was built as a hackathon submission, but suggestions and improvements
+are welcome. Feel free to open an issue or a pull request if you spot
+something worth fixing.s
+
 **`<Your Name>`**
 `<your.email@example.com>` · [GitHub](https://github.com/<your-username>) · [Deployed App](<your-deployment-url>)
